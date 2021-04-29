@@ -18,5 +18,5 @@ export default function initFirebase(){
         firebase.initializeApp(clientCredientials)
     }
 
-    console.log('firebase good')
+   
 }
